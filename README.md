@@ -1,4 +1,4 @@
-### Hi there 👋! This is Kininaru, an undergrade student in Wuhan. 
+### 世间万物，皆系于一键之上 
 
 - Learning C++/Java/FastAPI
 - Interested in algorithm
