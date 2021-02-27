@@ -1,6 +1,6 @@
 ### 世间万物，皆系于一键之上 
 
-- Learning C++/Java/FastAPI
+- Learning C++/Java/Spring
 - Interested in algorithm
 - Wuhan now
 
