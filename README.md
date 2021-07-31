@@ -1,6 +1,6 @@
 ## Code for Future 
 
-- Learning Go/Beego/React/Nodejs
+- Learning Go/Nodejs/React
 - Interested in algorithm
 - Wuhan now
 
