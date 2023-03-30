@@ -1,3 +1,3 @@
-- Graduate student at University of Science and Technology of China (USTC)
-
-- op (Genshin Player)
+- University of Science and Technology of China (USTC)
+- Software Engineering
+- OP (Genshin Player)
